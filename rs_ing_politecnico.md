@@ -9,9 +9,9 @@
 
 </br>
 
-<center>
+<div style="text-align:center">
 <img src="https://imgs.search.brave.com/eIucIiFFyCOSvnfUW_fREaI4FhI2H9RrBil6MR8lBSs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb25j/ZXB0by5kZS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNC8xMC9o/YXJkd2FyZS1lMTU1/MTA0Njg3ODU1OC5q/cGc" alt="HARDWARE" style="border: 1px solid grey; border-radius:5px; width:50%;">
-</center>
+</div>
 
 </br>
 
